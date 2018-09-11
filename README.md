@@ -1,4 +1,4 @@
-#User API
+# User API
 
 User API is a RESTful API for manage user profiles (id, name, email, image) using PHP and MySQL database.
 
@@ -7,12 +7,12 @@ Finally, this API has unit tests built with PHPUnit and Guzzle (PHP Http client)
 
 Because of lack time, this API don't have oAuth 2 authentication, maybe for the next version.
 
-##Server Dependencies
+## Server Dependencies
 
 PHP 5.6.30 and mysqli activated
 MySQL 5.5.16 or greater
 
-##Install
+## Install
 
 1. Create database and table executing the "/userprofileapidb.sql" file in MySQL database
 2. Go to the root of apache documents
@@ -21,7 +21,7 @@ MySQL 5.5.16 or greater
 5. Go to "userAPI" folder and execute this command in your CLI to start the application 
 	php -S localhost:8050 -t public
 
-##Using the API
+## Using the API
 
 1. Go to your browser and copy-paste the URL "http://localhost:8050/api/userProfile"
 2. If you want to run the unit tests do the following
@@ -133,13 +133,13 @@ MySQL 5.5.16 or greater
 		["An error has occurred. "]
 		
 
-##Author
+## Author
 
 Edwuin Gutierrez
 edwinguti86@gmail.com
 
 
-##License
+## License
 
 Copyright(c) 2017
 MIT License

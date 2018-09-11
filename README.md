@@ -136,7 +136,7 @@ MySQL 5.5.16 or greater
 ##Author
 
 Edwuin Gutierrez
-edisnake85@yahoo.com
+edwinguti86@gmail.com
 
 
 ##License
